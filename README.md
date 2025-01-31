@@ -1,3 +1,3 @@
 # Animated_login_form
-```css
+```html
 <h1>my name is binod bhattarai</h1>
